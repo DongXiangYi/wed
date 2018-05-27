@@ -1,0 +1,434 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+/*herd开始*/
+.head{
+	height: 173px;
+	background-color: #eeeeef;
+}
+.a{
+	text-align: center;
+	height: 125px;
+}
+.a img{
+	margin-top: 30px;
+}
+.daohang01{
+	width: 670px;
+	height: 45px;
+	background-color: #fff;
+	margin: 0 auto;
+	border-radius: 23px;
+}
+.daohang01 li{
+	font-size: 14px;
+	font-family: '微软雅黑';
+	float: left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	background: url('../images/shuxian.jpg') no-repeat right center;
+}
+.daohang01 li a{
+	display: block;
+	height: 42px;
+	border-bottom: 3px solid #1e50ae;
+}
+.daohang01 li:last-child{
+	background: none;
+}
+/*一图中部*/
+.yizhong{
+	height: 410px;
+	background: url('../images/s.png') no-repeat center center;
+}
+/*服务项目*/
+.fuwu{
+	width: 1200px;
+	height: 800px;
+	margin: 0 auto;
+	text-align: center;
+	background-color: white;
+}
+.xiangmu{
+	font-size: 34px;
+	font-family: '微软雅黑';
+	padding-top: 63px;
+}
+.ying{
+	font-size: 21px;
+	font-family: '宋体';
+	padding-top: 22px;
+}
+.shang{
+	height: 430px;
+}
+.shangsi{
+	width: 300px;
+	height: 367px;
+	padding-top: 63px;
+	float: left;
+}
+.xia{
+	height: 250px;
+}
+.xiasi{
+	width: 300px;
+	height: 250px;
+	float: left;
+}
+.z{
+	font-size: 16px;
+	font-family: '微软雅黑';
+}
+.g{
+	background: url('../images/yuan.png') 0 center no-repeat;
+	text-align: left;
+	float: left;
+	margin-left: 106px;
+	margin-top: 10px;
+}
+.x{
+	display: inline-block;
+	padding-left: 13px;
+	color: grey;
+	font-size: 14px;
+	font-family: '微软雅黑';
+}
+.tu-3{
+	width:100%;
+	height: 712px;
+	margin: 0 auto;
+	background: url('../images/L.png') no-repeat center center;
+}
+.san{
+	width: 1200px;
+	height: 712px;
+	text-align: center;
+	margin: 0 auto;
+}
+.fangan{
+	font-size: 34px;
+	font-family: '微软雅黑';
+	padding-top: 64px;
+}
+.an{
+	font-size: 20px;
+	font-family: '微软雅黑';
+	padding-top: 22px;
+}
+.sizhangtu{
+	height: 455px;
+	width: 1200px;
+}
+.zuo{
+	float: left;
+	padding-top: 205px;
+}
+.chengshi{
+	float: left;
+	padding-top: 75px;
+	width: 285px;
+}
+.you{
+	float: right;
+	padding-top: 205px;
+}
+.liaojie{
+	height: 200px;
+}
+.gengduo{
+
+	padding-top: 80px;
+}
+.bei{
+	width: 100%;
+	height: 1012px;
+}
+.tu-4{
+	width: 1200px;
+	height: 910px;
+	margin: 0 auto;
+}
+.zixun{
+	font-size: 34px;
+	font-family: '微软雅黑';
+	padding-top: 58px;
+	text-align: center;
+}
+.yingwen{
+	font-size: 31px;
+	font-family: '微软雅黑';
+	padding-top: 18px;
+	text-align: center;
+}
+.sishang{
+	width: 1200px;
+	height: 360px;
+	text-align: center;
+}
+.shangzuo{
+	height: 293px;
+	width: 495px;
+	margin-top: 47px;
+	margin-left: 55px;
+	float: left;
+}
+.shangyou{
+	height: 293px;
+	width: 505px;
+	margin-top: 47px;
+	float: left;
+	text-align: left;
+}
+.you1{
+	font-size: 22px;
+	font-family: '微软雅黑';
+	padding-top: 41px;
+	padding-left: 74px;
+	float: left;
+}
+.you2{
+	font-size: 18px;
+	font-family: '微软雅黑';
+	padding-top: 20px;
+	padding-left: 74px;
+	float: left;
+	color: grey;
+}
+.you3{
+	font-size: 14px;
+	font-family: '微软雅黑';
+	padding-top: 36px;
+	padding-left: 74px;
+	float: left;
+}
+.liao2{
+	padding-top: 35px;
+	float: left;
+	padding-left: 74px;
+}
+.sixia{
+	width: 1200px;
+	height: 260px;
+	text-align: center;
+}
+.xiazuo{
+	height: 260px;
+	float: left;
+}
+.xiazuo li{
+	height: 25px;
+	font-size: 14px;
+	font-family: '微软雅黑';
+	border-bottom: 1px dotted grey;
+	padding-top: 15px;
+}
+.xiayou{
+	height: 260px;
+	float: left;
+	margin-left: 50px;
+}
+.xiayou li{
+	height: 25px;
+	font-size: 14px;
+	font-family: '微软雅黑';
+	border-bottom: 1px dotted grey;
+	padding-top: 15px;
+}
+.end4{
+	height: 102px;
+	background-color: #eeeeef;
+	text-align: center;
+}
+.zi1{
+	font-size: 19px;
+	font-family: ‘微软雅黑’;
+}
+.zi11{
+	font-size: 13px;
+	font-family: '微软雅黑';
+}
+.enda{
+	height: 50px;
+	padding-left: 227px;
+	padding-top: 28px;
+	float: left;
+}
+.wen1{
+	height: 50px;
+	padding-left: 25px;
+	padding-top: 33px;
+	float: left;
+}
+.endb{
+	height: 50px;
+	padding-left: 105px;
+	padding-top: 28px;
+	float: left;
+}
+.wen2{
+	height: 50px;
+	padding-left: 25px;
+	padding-top: 33px;
+	float: left;
+}
+.endc{
+	height: 50px;
+	padding-left: 105px;
+	padding-top: 28px;
+	float: left;
+}
+.wen3{
+	height: 50px;
+	padding-left: 25px;
+	padding-top: 33px;
+	float: left;
+}
+.endd{
+	height: 50px;
+	padding-left: 105px;
+	padding-top: 28px;
+	float: left;
+}
+.wen4{
+	height: 50px;
+	padding-left: 25px;
+	padding-top: 33px;
+	float: left;
+}
+.end{
+	width: 100%;
+	height: 387px;
+	background-color: #323232;
+}
+.end1{
+	width: 1560px;
+	height: 387px;
+	margin: 0 auto;
+}
+.li1{
+	font-size: 18px;
+	font-family: '微软雅黑';
+}
+.li2{
+	font-size: 14px;
+	font-family: '微软雅黑';
+}
+.endzuo1{
+	width: 74px;
+	height: 143px;
+	float: left;
+	padding-top: 76px;
+	padding-left: 180px;
+}
+.endzuo2{
+	width: 74px;
+	height: 143px;
+	padding-top: 76px;
+	padding-left: 104px;
+	float: left;
+}
+.endzuo3{
+	width: 74px;
+	height: 143px;
+    padding-top: 76px;
+	padding-left: 104px;
+	float: left;
+}
+.endzuo4{
+	width: 74px;
+	height: 143px;
+    padding-top: 76px;
+	padding-left: 104px;
+	float: left;
+}
+.weixin{
+	width: 236px;
+	height: 143px;
+	padding-top: 76px;
+	padding-left: 104px;
+	float: left;
+}
+.zuihousanhang{
+	width: 206px;
+	height: 143px;
+	padding-top: 76px;
+	padding-left: 42px;
+	float: left;
+}
+.re{
+	padding-top: 17px;
+	float: left;
+}
+.qq{
+	width: 206px;
+	height: 32px;
+	padding-top: 24px;
+	float: left;
+}
+.chat{
+	width: 206px;
+	height: 32px;
+	padding-top: 24px;
+	float: left;
+}
+.re4{
+	float: left;
+}
+.re2{
+	padding-left: 10px;
+	float: left;
+}
+.re5{
+	float:left;
+}
+.re3{
+	padding-left: 17px;
+	float: left;
+}
+.xian{
+	padding-top: 45px;
+	width: 100%;
+	text-align: center;
+}
+.zuihou{
+	width: 730px;
+	height: 20px;
+	margin: 0 auto;
+	padding-top: 36px;
+}
+.zuihou li{
+	font-size: 14px;
+	font-family: '微软雅黑';
+	float: left;
+	height: 20px;
+	padding: 0 10px;
+	line-height: 20px;
+	background: url('../images/shuxian.jpg') no-repeat right center;
+	text-align: center;
+}
+.zuihou li a{
+	display: block;
+	height: 42px;
+	border-bottom: 3px solid #1e50ae;
+}
+.zuihou li:last-child{
+	background: none;
+}
+.zuihouyihang{
+	margin: 0 auto;
+	padding-top: 21px;
+}
+.zuihouyihang p{
+	font-size: 14px;
+	font-family: '微软雅黑';
+	text-align: center;
+}
